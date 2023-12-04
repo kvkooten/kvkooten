@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kvkooten
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Statamic 3 / Laravel development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Statamic 4 / Laravel development
 - 📫 Find me at https://kazvankooten.nl
 
 <!---
